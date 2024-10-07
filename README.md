@@ -1,3 +1,4 @@
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="mahdyMusave_work every day"/>
 <h1 align="center">Hi 👋, I'm MahdyMusave</h1>
 <h3 align="center">Hi there! I'm a 25-year-old developer passionate about JavaScript, HTML, CSS, React, and Node.js.</h3>
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right" alt="MahdyMusave" width="400" /> 
